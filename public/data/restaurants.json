@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "The Gourmet Kitchen",
+      "address": "123 Foodie Lane, Flavor Town",
+      "cuisine": "Italian",
+      "price": "12$"
+    },
+    {
+      "id": 2,
+      "name": "Spice Symphony",
+      "address": "456 Curry Avenue, Spice City",
+      "cuisine": "Indian",
+      "price": "13$"
+    },
+    {
+      "id": 3,
+      "name": "Sushi Central",
+      "address": "789 Sashimi Street, Fishville",
+      "cuisine": "Japanese",
+      "price": "20$"
+    },
+    {
+      "id": 4,
+      "name": "Burger Barn",
+      "address": "101 Burger Blvd, Beef Town",
+      "cuisine": "American",
+      "price": "15$"
+    },
+    {
+      "id": 5,
+      "name": "Taco Paradise",
+      "address": "202 Taco Terrace, Salsa City",
+      "cuisine": "Mexican",
+      "price": "15$"
+    }
+  ]
+  
